@@ -1,7 +1,7 @@
 # MindRAG
 Agent-based Condition Monitoring Assistance with Multimodal Industrial Database Retrieval Augmented Generation
+![Abstract fig brief(1)](https://github.com/user-attachments/assets/86bd901f-3471-4d84-88e1-4dd5f4b4da11)
 
-![Abstract fig brief](https://github.com/user-attachments/assets/45e10185-f0e8-4997-bea7-d8e548087abd)
 
 Call signal-to-text with:![Uploading Abstract fig brief.svg…]()
 
